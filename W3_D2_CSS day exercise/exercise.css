@@ -1,0 +1,101 @@
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+#profile {
+  text-align: left;
+  color: #aaa;
+  font-family: "roboto";
+  padding: 10px;
+}
+
+#profile_img {
+  margin: 15px 15px 0px 0px;
+  height: 40px;
+  width: 40px;
+  position: left;
+  vertical-align: middle;
+}
+
+#main {
+  background-color: #fff;
+  border-radius: 10px;
+  font-family: "roboto";
+}
+
+#money {
+  color: #f3ab4c;
+  margin: 15px 0px;
+  text-align: center;
+  font-size: 15px;
+}
+
+#now {
+  color: #f64f5a;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #808080;
+  margin: 15px 0px;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+#htmalcss {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #808080;
+  margin: 15px 0px;
+  text-align: center;
+  font-size: 15px;
+}
+
+
+#comment_img {
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin: 20px 10px 20px 0;
+  
+
+}
+
+#comment {
+  color: #2889d8;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #2889d8;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 20px 0;
+}
+
+#comment_icon {
+  margin: 0;
+  padding: 0;
+  height: 20px;
+  width: 20px;
+
+}
+
+#commented {
+  line-height: 10%;
+  text-align: left;
+  margin: 20px 10px 20px 0;
+}
+
+#fondo {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+
